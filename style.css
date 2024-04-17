@@ -1,0 +1,78 @@
+:root {
+  --primary-color: ;
+  --secondary-color: --titles-font;
+}
+
+* {
+  background-color: rgb(245, 245, 245);
+}
+h1 {
+  color: black;
+}
+
+p {
+  color: black;
+}
+.menu {
+  display: inline-block;
+  width: 200px;
+  padding-left: 30px;
+}
+.menu h4 {
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: bold;
+  letter-spacing: 2px;
+  padding-right: 50px;
+}
+.menu h1 {
+  font-size: x-large;
+}
+.intro {
+  display: inline-block;
+  font-family: Arial, Helvetica, sans-serif;
+  padding-right: 50px;
+  width: 500px;
+  height: 500px;
+  padding-left: 80px;
+  padding-top: 30px;
+}
+.image {
+  display: inline-block;
+  width: 200px;
+  vertical-align: middle;
+}
+.image img {
+  width: 400px;
+  display: inline;
+  border-radius: 200px;
+}
+.contactButton {
+  color: white;
+  background-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+  padding: 25px;
+  letter-spacing: 2px;
+  border-style: none;
+}
+.scrollDown {
+  font-family: "Courier New", Courier, monospace;
+  color: gray;
+  padding-left: 320px;
+}
+.SERVICES {
+  font-family: Arial, Helvetica, sans-serif;
+  padding-left: 600px;
+  padding-top: 220px;
+}
+.fotografia {
+  text-align: center;
+  display: inline-block;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 60px;
+}
+.fotografia h3 {
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+.fotografia img {
+  width: 80px;
+}
